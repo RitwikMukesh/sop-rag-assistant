@@ -1,0 +1,13 @@
+# Standard Operating Procedure: Faulty Hardware Return & Replacement
+Version: 2.1 | Applicable to: Regional Logistics & Hub Operations
+
+1. Intake Protocol:
+When hardware arrives from a regional hub, the system engineer must log the package count immediately.
+All serial numbers must be scanned and cross-referenced with the dispatch manifest in the internal tracker within 24 hours.
+
+2. Escalation & Stock Shortage:
+If replacement stock is unavailable at the central hub, the engineer must not keep the ticket in pending status for more than 4 hours.
+The engineer is authorized to execute a lateral stock transfer from the nearest secondary hub using express courier delivery to prevent operational downtime.
+
+3. Maintenance Checklist:
+Before dispatching any repaired or replacement device back to a hub, a standardized checklist verifying device power-on, network connectivity, and firmware version must be signed off.
